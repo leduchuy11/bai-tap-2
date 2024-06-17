@@ -229,7 +229,7 @@
 
 /* Section 4 */
 .section4{
-    background-image: url(/project-mini-2/asset/img/anh_nen_section4.png);
+    background-image: url(../img/anh_nen_section4.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -509,7 +509,7 @@
 
 /* Section 7 */
 .section7{
-    background-image: url(/project-mini-2/asset/img/anh_nen_section6.png);
+    background-image: url(../img/anh_nen_section6.png);
     height: 330px;
     background-repeat: no-repeat;
     background-size: cover;
